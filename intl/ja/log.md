@@ -260,3 +260,11 @@
 
 **リンク**:
 [enumを日本語化する](https://qiita.com/sakuraniumarete/items/90d3fbaebcd5fdb31646)
+
+### 36日目: 2020年7月18日(土)
+
+**今日の進捗**:
+
+* 前回の課題に対しての取り組み:simple_formのinputタグにclassを当てる場合f.input_fieldにする必要があった。これで問題は解決。
+
+* 個人アプリ作業(4h):既存のフォームをほぼsimple_formに置き換え。categoryを入れるselectフォームには予めcategoryのseedデータを入れておかなければいけないため、準備をしました。
