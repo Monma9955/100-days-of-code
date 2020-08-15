@@ -506,3 +506,14 @@
 
 * 次の課題：コントローラーのテスト完了。
 
+### 59日目: 2020年8月14日(金)
+
+**今日の進捗**：
+
+* 前回の課題に対しての取り組み：フォームオブジェクトに対してbe_a_newマッチャが使用できない問題の対処。
+
+* 個人アプリ作業(3h)：RSPecを用いたコントローラーの検証継続。articleコントローラーのnewアクションにフォームオブジェクトであるFormArticle.newを渡していることをbe_a_newマッチャで検証したところ「undefined method `new_record?'」エラー。仮説として、フォームオブジェクトはモデルインスタンスではないためbe_a_newマッチャでの検証はできないと思われる。代替案としてbe_an_instance_ofマッチャで同一クラスかどうかを検証した。
+
+* 次の課題：コントローラーのテスト完了。
+
+**リンク**：[Github/rspec](https://github.com/rspec/rspec-rails) ／ [Ruby on Rails、RSpecを使ってコントローラのテストを書いてみる](https://naichilab.hatenablog.com/entry/2016/01/19/011514) ／ [rspecについてまとめてみました](https://qiita.com/ea54595/items/459727ea8c32fed48b50#%E5%90%8C%E4%B8%80%E3%82%AF%E3%83%A9%E3%82%B9%E3%81%8B%E7%A2%BA%E8%AA%8D)
