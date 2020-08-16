@@ -517,3 +517,13 @@
 * 次の課題：コントローラーのテスト完了。
 
 **リンク**：[Github/rspec](https://github.com/rspec/rspec-rails) ／ [Ruby on Rails、RSpecを使ってコントローラのテストを書いてみる](https://naichilab.hatenablog.com/entry/2016/01/19/011514) ／ [rspecについてまとめてみました](https://qiita.com/ea54595/items/459727ea8c32fed48b50#%E5%90%8C%E4%B8%80%E3%82%AF%E3%83%A9%E3%82%B9%E3%81%8B%E7%A2%BA%E8%AA%8D)
+
+### 60日目: 2020年8月15日(土)
+
+**今日の進捗**：
+
+* 前回の課題に対しての取り組み：createアクションの変数検証についてのエラー解消
+
+* 個人アプリ作業(4h)：createアクションで定義している@form_article(フォームオブジェクトの新規インスタンス)の中身の検証。検証対象にするインスタンス（パラメーター）はシンボル型にしないといけないため、build(:form_article)でFactoryBotをそのまま使用するとエラーが出た。対処法を検証中。
+
+* 次の課題：エラーの回避策を検証、テスト完了。
