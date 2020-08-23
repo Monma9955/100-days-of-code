@@ -596,3 +596,12 @@
 
 **リンク**：[ancestryカラムを持ったFactoryの作り方](https://qiita.com/ratovia/items/a27ef84b8bb118fe7647)
 
+### 67日目: 2020年8月22日(土)
+
+**今日の進捗**：
+
+* 前回の課題に対しての取り組み：FactoryBotでカテゴリデータ作成
+
+* 個人アプリ作業(4h)：リンク記事通りカテゴリのFactory内にancestryの３世代をcreateできず(createがfactory内でundefined methodになる)。解決策を模索中。
+
+* 次の課題：FactoryBotでカテゴリのテスト用レコードを用意する。
