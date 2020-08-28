@@ -650,3 +650,12 @@
 
 **リンク**：[【capybara】JavaScriptで生成されたselectタグを選択することができない](https://teratail.com/questions/244610)、[【Rails】JavaScriptが絡むテスト](https://qiita.com/koki_73/items/ffc115ed542203161cef)、[Capybaraチートシート](https://qiita.com/morrr/items/0e24251c049180218db4#%E8%A6%81%E7%B4%A0%E3%82%92%E6%A4%9C%E7%B4%A2%E3%81%99%E3%82%8Bcapybaranodefinder)
 
+### 72日目: 2020年8月27日(木)
+
+**今日の進捗**：
+
+* 前回の課題に対しての取り組み：統合テスト完了
+
+* 個人アプリ作業(5h)：フィーチャスペックのテストが通ることを確認。テストコードがうまく動いているか確認する方法の一つとして、コード内にスクリーンショットを撮るコマンドを入れ込むデバッグ方法を実践。
+
+* 次の課題：プルリクエスト内のコード修正。masterブランチにマージ。
