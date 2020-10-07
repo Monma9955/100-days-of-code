@@ -1066,3 +1066,15 @@
 
 * 次の課題：バリデーションメッセージのビューへの表示(CSS適用)。コントローラーのテスト・統合テスト
 
+### 111日目: 2020年10月5日(月)
+
+**今日の進捗**：
+
+* 前回の課題に対しての取り組み：コントローラーのテスト開始
+
+* 個人アプリ作業(3h)：RSpecでコントローラーのテスト。newアクションでPostモデルにaccepts_nested_attributes_forでネストされたevidenceモデルをbuildしているのでその動きをテストする書き方を参考記事を元に学習予定。
+
+* 次の課題：コントローラーのテスト完了。統合テスト開始。
+
+**リンク**: [[Rails]accepts_nested_attributes_forの使い方](https://qiita.com/seimiyajun/items/dff057b3eb40434d5c27#rspec)
+
