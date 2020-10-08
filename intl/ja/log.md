@@ -1078,3 +1078,13 @@
 
 **リンク**: [[Rails]accepts_nested_attributes_forの使い方](https://qiita.com/seimiyajun/items/dff057b3eb40434d5c27#rspec)
 
+### 112日目: 2020年10月6日(火)
+
+**今日の進捗**：
+
+* 前回の課題に対しての取り組み：コントローラーのテスト(RSpec)
+
+* 個人アプリ作業(6h)：RSpecでevidencesコントローラーのアクションをテスト。newアクションでインスタンス変数と画面遷移のテストが完了。createアクションではaccepts_nested_attributes_forでネストしたフォーム(Post→Evidence)の子モデル(Evidence)だけ保存されない現象が発生。対応中。
+
+* 次の課題：子モデルが保存されない現象のトラブルシューティング
+
