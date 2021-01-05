@@ -1,4 +1,9 @@
-# 100DaysOfCodeへの取り組み
+# 100 Days Of Codeへの取り組み
+
+## 100 Days Of Codeとは？
+
+開始すると宣言してから100日間、毎日最低1時間プログラミングをするという活動です。
+ルール等詳細は[README](intl/ja/README.md)参照。
 
 ## 学習ログ
 
